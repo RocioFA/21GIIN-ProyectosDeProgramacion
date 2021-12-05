@@ -6,3 +6,4 @@
 # Compile the code.
 # Create the DB.
 # Execute.
+# Login using admin:admin
